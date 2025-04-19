@@ -1,5 +1,5 @@
-# cookiecutter data science - data directory
-../data/
+# cookiecutter data science - data files
+../data/raw/url_dataset.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
